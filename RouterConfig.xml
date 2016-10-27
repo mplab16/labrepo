@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Route>
+	<!-- Section for all ESB SOAP HTTP services - Start.
+		Any web services running on ESBHttpFSH in Internal Datapower
+	-->
+	<Entrance>
+		<ContextPath>/esb</ContextPath> 
+	</Entrance>	
+</Route>
