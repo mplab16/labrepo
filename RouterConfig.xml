@@ -4,6 +4,6 @@
 		Any web services running on ESBHttpFSH in Internal Datapower
 	-->
 	<Entrance>
-		<ContextPath>/esb/manoj</ContextPath> 
+		<ContextPath>/esb/mplab</ContextPath> 
 	</Entrance>	
 </Route>
